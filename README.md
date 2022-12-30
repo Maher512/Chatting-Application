@@ -13,11 +13,11 @@
 
 ## To Start the Application:
 Server:
-Cmd to the venv folder:
-go to scripts and activate
-Cmd to server then enter:
-python manage.py migrate
-python manage.py runserver
+1. Cmd to the venv folder:
+2. Go to the scripts file then activate 
+3. Cmd to server then enter:
+4. python manage.py migrate
+5. python manage.py runserver
 
 Client:
 npm start 
