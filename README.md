@@ -10,6 +10,7 @@
 8. Maintained Message Integrity
 9. Hashed Sessions
 10. Dynamic Records
+11. User State Identification
 
 ## To Start the Application:
 Server:
