@@ -1,16 +1,16 @@
 # Chatting-Application
 ## Application Features:
-1. Login and Sign up
-2. Diffrent Levels of access 
-3. Admin Dashboard
-4. Content Managment System
-5. AES Encryption
-6. Client and Server
-7. Hashed Confedential Data
-8. Maintained Message Integrity
-9. Hashed Sessions
-10. Dynamic Records
-11. User State Identification
+o	Login and Sign up
+o	Different Levels of access
+o	Admin Dashboard
+o	Content Management System
+o	AES Encryption
+o	Client and Server
+o	Hashed Confidential Data
+o	Maintained Message Integrity
+o	Hashed Sessions
+o	Dynamic Records
+o	User State Identification
 
 ## To Start the Application:
 Server:
