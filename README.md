@@ -20,7 +20,7 @@ Server:
 5. python manage.py runserver
 
 Client:
-npm start 
+1. npm start 
 
 <p align="center">
   <b>Created by: Mohamed Hamed Maher</b>
